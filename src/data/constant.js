@@ -5,7 +5,7 @@ export const Bio = {
     "My name is Vu Duc Huy. I come from Nam Dinh. Nam Dinh is abbreviated as N and D so you can call me HuyEndy. I'm trying to become a web developer. Please follow my development journey",
   github: "https://github.com/vd-huy",
   resume:
-    "https://drive.google.com/file/d/1xnBpgYUIZSOajfZK8CDb2rr3FqtgstIa/view?usp=sharing",
+    "https://drive.google.com/file/d/1X5BDe5F1YIZuchxr7OzDpXPKn8h5j5W4/view?usp=sharing",
   linkedin:
     "https://www.linkedin.com/in/huy-v%C5%A9-%C4%91%E1%BB%A9c-2b25142ba/",
   insta: "https://www.instagram.com/huy_gutsboi",
